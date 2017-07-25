@@ -1,9 +1,9 @@
 <<<<<<< HEAD
 # Vue-juejin-App
-=======
+
 Vue2.0构建的掘金移动端APP
 =======
-# 预览地址： http://www.upyang.com/Vue-juejin-App/#/home/homepage
+## 预览地址： http://www.upyang.com/Vue-juejin-App/#/home/homepage
 
 
 
